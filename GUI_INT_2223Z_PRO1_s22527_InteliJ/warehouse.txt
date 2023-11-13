@@ -1,0 +1,23 @@
+Servis 1:
+	Consumer warehouses:
+	ConsumerWarehouse{occupied=true, personArrayList=[], id='1', storageVolume=8.0, occupiedVolume=0.0, itemArrayList=[]}
+	ConsumerWarehouse{occupied=false, personArrayList=[], id='8', storageVolume=9.0, occupiedVolume=0.0, itemArrayList=[]}
+	ConsumerWarehouse{occupied=false, personArrayList=[], id='7', storageVolume=11.0, occupiedVolume=0.0, itemArrayList=[]}
+	ConsumerWarehouse{occupied=true, personArrayList=[], id='4', storageVolume=12.0, occupiedVolume=0.0, itemArrayList=[]}
+	ConsumerWarehouse{occupied=true, personArrayList=[], id='3', storageVolume=14.0, occupiedVolume=0.0, itemArrayList=[]}
+	ConsumerWarehouse{occupied=false, personArrayList=[], id='2', storageVolume=16.0, occupiedVolume=0.0, itemArrayList=[]}
+	ConsumerWarehouse{occupied=false, personArrayList=[], id='5', storageVolume=20.0, occupiedVolume=0.0, itemArrayList=[]}
+	ConsumerWarehouse{occupied=false, personArrayList=[], id='6', storageVolume=25.0, occupiedVolume=0.0, itemArrayList=[]}
+	ConsumerWarehouse{occupied=false, personArrayList=[], id='10', storageVolume=28.0, occupiedVolume=0.0, itemArrayList=[]}
+	ConsumerWarehouse{occupied=false, personArrayList=[], id='9', storageVolume=41.0, occupiedVolume=0.0, itemArrayList=[]}
+	Service warehouses:
+	ServiceWarehouse{id='4', storageVolume=11.0, occupiedVolume=0.0, itemArrayList=[]}
+	ServiceWarehouse{id='3', storageVolume=17.0, occupiedVolume=0.0, itemArrayList=[]}
+	ServiceWarehouse{id='9', storageVolume=18.0, occupiedVolume=0.0, itemArrayList=[]}
+	ServiceWarehouse{id='1', storageVolume=21.0, occupiedVolume=0.0, itemArrayList=[]}
+	ServiceWarehouse{id='6', storageVolume=33.0, occupiedVolume=0.0, itemArrayList=[]}
+	ServiceWarehouse{id='7', storageVolume=44.0, occupiedVolume=0.0, itemArrayList=[]}
+	ServiceWarehouse{id='8', storageVolume=51.0, occupiedVolume=0.0, itemArrayList=[]}
+	ServiceWarehouse{id='2', storageVolume=56.0, occupiedVolume=0.0, itemArrayList=[]}
+	ServiceWarehouse{id='5', storageVolume=64.0, occupiedVolume=0.0, itemArrayList=[]}
+	ServiceWarehouse{id='10', storageVolume=72.0, occupiedVolume=0.0, itemArrayList=[]}

@@ -1,0 +1,7 @@
+Queue repair: 
+
+Current repair: 
+	CarRepair{id=2, cost=90, carServiceSpot=CarServiceSpot{id=0, space=200.0}, vehicle=Motorbike{id=9, name='Ducati', square=5.3, sizeOfWheel=2.3}, startDate=14.11.2022, finishDate=17.11.2022, person=Person{name='Michal', surname='Szymanczak', ID=4, startDate=null}, parkingSpace=ParkingSpace{id=2, space=120.0, parking=Motorbike{id=7, name='Harley-Davidson', square=4.2, sizeOfWheel=3.5}, personArrayList=[]}}
+	CarRepair{id=1, cost=120, carServiceSpot=CarServiceSpot{id=0, space=150.0}, vehicle=Motorbike{id=7, name='Harley-Davidson', square=4.2, sizeOfWheel=3.5}, startDate=14.11.2022, finishDate=18.11.2022, person=Person{name='Rafal', surname='Konieczka', ID=2, startDate=null}, parkingSpace=ParkingSpace{id=3, space=100.0, parking=null, personArrayList=[]}}
+
+Repair history: 
